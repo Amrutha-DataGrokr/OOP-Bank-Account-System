@@ -10,6 +10,7 @@ This project contains:
 - `main_bank.py` : demonstrates deposit, withdrawal, and interest logic
 - `dataset_analysis.py` : loads and analyzes the Titanic dataset using pandas and NumPy
 - `titanic.csv` : sample Titanic dataset used for analysis
+- Dataset source: [Titanic CSV dataset](https://github.com/datasciencedojo/datasets/blob/master/titanic.csv) from DataScienceDojo's datasets repository
 
 ## Features
 
